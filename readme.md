@@ -46,6 +46,7 @@ Is an Get APi which will take CustomerId as an input to fetch the details of the
 
 Add to Cart - 
 -----------------------
+http://localhost:8080/addToCart
 Sample post request:
 
 {
